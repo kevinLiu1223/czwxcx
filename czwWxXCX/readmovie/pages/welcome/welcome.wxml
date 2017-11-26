@@ -1,0 +1,7 @@
+<view class="container">
+    <image class='user-avatar' src='/images/wx01.jpeg'></image>
+    <text class='hellotitle'><text style=''>Hello 九月</text></text>
+    <view class='moto-container' bindtap='onTap' catchtap=''>
+        <text class='hellocontent'>开启小程序之旅</text>
+    </view>
+</view>
